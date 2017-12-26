@@ -1,11 +1,5 @@
-#include <iostream>
+This is an introductory file for my first project on GIT.
 
-using namespace std;
+Merry Christmas!
 
-int main(){
-
-  cout << "hello world" << endl;
-  
-  return 0;
-  
-}
+12/26/2017
